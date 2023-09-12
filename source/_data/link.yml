@@ -8,3 +8,7 @@
       siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
 
 
+- class_name: 免费容器
+  link_list:
+   - name: vercel
+     link: https://vercel.com/
