@@ -12,3 +12,6 @@
   link_list:
    - name: vercel
      link: https://vercel.com/
+     avatar: https://www.fomal.cc/assets/avatar.webp
+     descr: 免费容器
+     siteshot: https://hexo-theme-fomalhaut-mauve.vercel.app/
