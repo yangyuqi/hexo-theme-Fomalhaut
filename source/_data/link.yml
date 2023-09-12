@@ -10,8 +10,8 @@
 
 - class_name: 免费容器
   link_list:
-   - name: vercel
+   - name: Vercel
      link: https://vercel.com/
      avatar: https://www.fomal.cc/assets/avatar.webp
-     descr: 免费容器
+     descr: free use
      siteshot: https://hexo-theme-fomalhaut-mauve.vercel.app/
